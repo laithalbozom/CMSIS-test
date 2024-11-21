@@ -1,0 +1,3 @@
+../Drivers/CMSIS/Source/arm_bitreversal.c:49:24:arm_bitreversal_f32	3
+../Drivers/CMSIS/Source/arm_bitreversal.c:124:24:arm_bitreversal_q31	3
+../Drivers/CMSIS/Source/arm_bitreversal.c:199:24:arm_bitreversal_q15	3
